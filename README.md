@@ -1,0 +1,2 @@
+# krunker-wasm
+wasm
